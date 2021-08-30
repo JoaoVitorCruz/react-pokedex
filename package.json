@@ -1,0 +1,20 @@
+{
+  "name": "react-pokedex",
+  "version": "1.0.0",
+  "description": "feito para praticar react com dados do pokeAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoVitorCruz/react-pokedex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoVitorCruz/react-pokedex/issues"
+  },
+  "homepage": "https://github.com/JoaoVitorCruz/react-pokedex#readme"
+}
