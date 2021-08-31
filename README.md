@@ -3,8 +3,8 @@
  
 ## Progresso
 - [x] [Preparação dos dados](https://pokeapi.co/)
-- [ ] Prototipo da versão mobile
-- [ ] versão mobile iniciada
+- [x] Prototipo da versão mobile
+- [x] versão mobile iniciada
 - [ ] versao mobile concluida
 - [ ] Prototipo da versão desktop
 - [ ] versao desktop iniciada
