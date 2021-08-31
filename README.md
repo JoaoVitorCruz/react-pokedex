@@ -13,5 +13,5 @@
 - [x] versão mobile iniciada
 - [x] versao mobile concluida
  ---
- ![image](https://user-images.githubusercontent.com/82549355/131420346-81b5f8de-dad8-4c71-abad-e707b73474c0.png)
+ ![image](https://user-images.githubusercontent.com/82549355/131590387-e5f208c7-25d8-41ea-ab12-6c5b12624e6f.png)
 
