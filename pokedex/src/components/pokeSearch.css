@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+}
+
+form {
+    width: 100%;
+}
+
+.search {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 300px;
+}
+
+input {
+    height: 40px;
+    text-align: center;
+    color: #09001c;
+    background-color: #ccc;
+    border-radius: 10px;
+    font-size: 20px;
+    border: solid 1px #09001c;
+}
+
+input[type=text]::placeholder {
+    color: #09001c;
+}
+
+input[type=text] {
+    width: 70%;
+}
+input[type=submit] {
+    width: 30%;
+}

@@ -1,17 +1,16 @@
 import './App.css';
 import pokeFetch from './pokeApi';
-import dittoData from './dittoData.json';
+import pokeData from './pokeData.json';
 import Search from './components/pokeSearch';
 import PokeDisplay from './components/pokeDisplay';
 import React, { useState, useEffect } from 'react';
 
-
 function App() {
-  let [chosenPoke, setChosenPoke] = useState(dittoData);
+  let [chosenPoke, setChosenPoke] = useState(pokeData);
 
   useEffect(()=>{
     (async()=>{
-      const data = await pokeFetch('pokemon/ditto')     
+      const data = await pokeFetch('pokemon/1')     
       setChosenPoke(data)
       
     })()
@@ -20,8 +19,10 @@ function App() {
 
   async function search(pokeName) {
     try {
-      const data = await pokeFetch('pokemon/'+ pokeName)
-      setChosenPoke(data)
+      if(pokeName !== '') {
+        const data = await pokeFetch('pokemon/'+ pokeName)
+        setChosenPoke(data)
+      }
 
     } catch(err) {
       console.warn(err)
@@ -32,7 +33,7 @@ function App() {
     <div>
       <Search callback={search}/>
       
-      <PokeDisplay chosenpoke = {chosenPoke}/>
+      <PokeDisplay chosenpoke = {chosenPoke} callback={search}/>
 
     </div>
   );

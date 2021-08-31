@@ -1,0 +1,87 @@
+.poke--name {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.poke--name h2 {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    color: #ccc;
+}
+
+.poke--img {
+    width:300px;
+    height:300px;
+    background-color: #ccc;
+}
+
+.stats--img, .stats--img > img {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    z-index: 1;
+}
+
+
+ul {
+    z-index: 1;
+    left: 0px;
+    position: relative;
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    transform: translateX(-20px);
+}
+
+li {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+li:nth-child(1) {
+    color: red;
+}
+
+li:nth-child(2) {
+    color: darkslategray;
+}
+
+li:nth-child(3) {
+    color: rgb(78, 3, 148);
+}
+
+.prev--poke, .next--poke {
+    background: #ccc;
+    border: solid 3px #09001c;
+    border-radius: 10px;
+    width: 145px;
+    height: 50px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+}
+
+.poke--control {
+    display: flex;
+    width: 300px;
+    margin: 10px auto;
+    justify-content: space-between;
+}
+
+.next--poke {
+
+}
+
+.prev--poke {
+
+}
