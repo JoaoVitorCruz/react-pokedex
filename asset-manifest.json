@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ed33cc4d.chunk.css",
+    "main.js": "./static/js/main.296c9c8d.chunk.js",
+    "main.js.map": "./static/js/main.296c9c8d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.aadcd4c9.js",
+    "runtime-main.js.map": "./static/js/runtime-main.aadcd4c9.js.map",
+    "static/js/2.d0726c8e.chunk.js": "./static/js/2.d0726c8e.chunk.js",
+    "static/js/2.d0726c8e.chunk.js.map": "./static/js/2.d0726c8e.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.ed33cc4d.chunk.css.map": "./static/css/main.ed33cc4d.chunk.css.map",
+    "static/js/2.d0726c8e.chunk.js.LICENSE.txt": "./static/js/2.d0726c8e.chunk.js.LICENSE.txt",
+    "static/media/Animal type-10.png": "./static/media/Animal type-10.bf4bfb8c.png",
+    "static/media/Bug type-10.png": "./static/media/Bug type-10.4f602fc3.png",
+    "static/media/Dark type-10.png": "./static/media/Dark type-10.cc2379b9.png",
+    "static/media/Dragon type-10.png": "./static/media/Dragon type-10.cf93c9a1.png",
+    "static/media/Electric type-10.png": "./static/media/Electric type-10.fb3d4593.png",
+    "static/media/Fairy type-10.png": "./static/media/Fairy type-10.8c7e210d.png",
+    "static/media/Fighting type-10.png": "./static/media/Fighting type-10.68045684.png",
+    "static/media/Fire type-10.png": "./static/media/Fire type-10.3ffb9a69.png",
+    "static/media/Flying type-10.png": "./static/media/Flying type-10.d7dc53e2.png",
+    "static/media/Ghost type-10.png": "./static/media/Ghost type-10.ee2740a4.png",
+    "static/media/Grass type-10.png": "./static/media/Grass type-10.3c7f2841.png",
+    "static/media/Ground type-10.png": "./static/media/Ground type-10.c103aa94.png",
+    "static/media/Ice type-10.png": "./static/media/Ice type-10.1b9935ac.png",
+    "static/media/Normal type-10.png": "./static/media/Normal type-10.58075fe8.png",
+    "static/media/Poison type-10.png": "./static/media/Poison type-10.fb6216a2.png",
+    "static/media/Psychic type-10.png": "./static/media/Psychic type-10.a6334946.png",
+    "static/media/Rock type-10.png": "./static/media/Rock type-10.ce34b470.png",
+    "static/media/Sand type-10.png": "./static/media/Sand type-10.d7380152.png",
+    "static/media/Sound type-10.png": "./static/media/Sound type-10.f0589039.png",
+    "static/media/Speedy type-10.png": "./static/media/Speedy type-10.4021d504.png",
+    "static/media/Steel type-10.png": "./static/media/Steel type-10.f9d1f982.png",
+    "static/media/Water type-10.png": "./static/media/Water type-10.8941dec9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aadcd4c9.js",
+    "static/js/2.d0726c8e.chunk.js",
+    "static/css/main.ed33cc4d.chunk.css",
+    "static/js/main.296c9c8d.chunk.js"
+  ]
+}
